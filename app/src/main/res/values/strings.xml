@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ImageCompressApp</string>
+    <string name="actual_image">Actual Image</string>
+    <string name="compressed_image">Compressed Image</string>
+</resources>
